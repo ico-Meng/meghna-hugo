@@ -5,18 +5,24 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Schoffer Studio"
+[Languages.cn]
+contentDir = "content/chinese"
+home = "Home"
+languageCode = "cn-si"
+languageName = "简体中文"
+weight = 1
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = 2
 [Languages.fr]
 contentDir = "content/french"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "About Us"
