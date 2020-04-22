@@ -5,8 +5,8 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "大航海工作室"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  content : "海的彼岸会埋藏着宝藏吗？那就和我们一起冒险吧！"
   button:
     enable : true
-    label : "Explore Us"
+    label : "了解我们"
     link : "#services"
