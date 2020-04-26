@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : 关于我们
+  title : 关于大航海
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : 创新
-    content : 布拉布拉布拉思维
+    title : 专业理性
+    content : 布拉布拉布拉理性
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : 专业
-    content : 布拉布拉布拉专业
+    title : 策略攀登
+    content : 布拉布拉布拉攀登
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : 天赋
-    content : 布拉布拉布拉天赋
+    title : 独立思维
+    content : 布拉布拉布拉思维
