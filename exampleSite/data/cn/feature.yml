@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : 使命航线
+  content : "大航海致力于冲破海内外留学就业信息壁垒，提供最高效和专业的留学职业发展策略咨询，并为每个怀揣梦想的同学开辟一条属于自己的新航道。 我们以世界一流高校及企业的前辈为灯塔，点亮并开发学生的独立思考潜能，提出对复杂信息的处理及应对留学职业发展道路中不确定情况的方法论。 使每一位航员成为大航海时代的舵手，迎接埋藏着宝藏的彼岸。"
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : 领航师全球部署
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 不论您身在哪个国家或时区，我们都会带来您期望的行业前景、地域文化、和专业咨询。
       
       # feature item loop
-    - title : Easy Customization
+    - title : 世界顶尖人才配置
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 领航师均来自全球顶尖高校及企业，并掌握广泛的社会网络和行业咨询。
 
       # feature item loop
-    - title : SEO Optimized
+    - title : 前沿信息穿透地域及经验壁垒
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 将全球各行业最前沿的信息及变化直接带给学生并给出建议，从而使学生建立起宏观立体的格局化思维，把握职业发展航线。
       
       # feature item loop
-    - title : Easy Customization
+    - title : 留学及职业生涯一站式培训
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 以就业为目标，从留学起始的专业选择及技能培养着手，为学生打造多维技能树。

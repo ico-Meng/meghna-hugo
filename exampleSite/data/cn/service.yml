@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : 大航海领航计划
   service_item :
     # service item loop
     - name : 罗盘针计划
@@ -10,25 +10,28 @@ service:
       
     # service item loop
     - name : 灯塔计划
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      icon : ti-signal # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
     - name : 逐日计划
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      icon : ti-shine # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Graphic Design
+    - name : 1v1职业生涯咨询
+      enable : false
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Apps Development
+    - name : 简历精修技能挖掘
+      enable : false
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Networking
+    - name : 就业面试培训课程
+      enable : false
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

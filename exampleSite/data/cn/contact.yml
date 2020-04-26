@@ -3,7 +3,7 @@ contact:
   enable : true
   title : 联系我们
   subtitle : 联系内容
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : 请联系我们的前台客服并获取详尽信息。
   form_action: "#" #contact form works with https://formspree.io
 
   contact_details :

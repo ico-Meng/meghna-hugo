@@ -5,21 +5,22 @@ funfacts:
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
-    - title : "Happy Clients"
+    - title : "1v1咨询"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+      count : "103"
     
     # counter item loop
-    - title : "Projects completed"
+    - title : "项目完成"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "379"
     
     # counter item loop
-    - title : "Positive feedback"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
-    
-    # counter item loop
-    - title : "Cups of Coffee"
+    - title : "满意体验"
       icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "250"
+      count : "281"
+
+    # counter item loop
+    - title : "点赞客户"
+      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
+      count : "167"
+    
