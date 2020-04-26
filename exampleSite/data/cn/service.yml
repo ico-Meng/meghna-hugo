@@ -8,8 +8,11 @@ service:
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : |+
                 申请策略课程
+
                 职业落地课程
+
                 圆桌问答咨询
+
                 赠送进群名额
 
       
@@ -18,8 +21,11 @@ service:
       icon : ti-signal # themify icon pack : https://themify.me/themify-icons
       content : |+
                 1v1长期留学职业生涯策略咨询
+
                 终生10家国际顶尖企业内推
+
                 简历精修及技能深度挖掘
+
                 名企面试培训
       
     # service item loop
@@ -27,6 +33,7 @@ service:
       icon : ti-shine # themify icon pack : https://themify.me/themify-icons
       content : |+
                 寻找任意背景的领航师
+
                 解决方案构建中...
       
     # service item loop
@@ -35,7 +42,9 @@ service:
       icon : ti-crown # themify icon pack : https://themify.me/themify-icons
       content : |+
                 签下一名领航师进行一对一咨询
+
                 长期：五个月咨询计划
+
                 短期：一小时咨询服务
       
     # service item loop
@@ -44,7 +53,9 @@ service:
       icon : ti-agenda # themify icon pack : https://themify.me/themify-icons
       content : |+
                 针对简历和理想职位多维度培养专业能力
+
                 长期：两稿修改，累计1小时交流
+                
                 短期：六稿修改，累计3小时交流
       
     # service item loop
@@ -57,6 +68,6 @@ service:
                 如何使用简历执面试官牛耳
 
                 模糊信息处理能力提升
-                
+
                 Offer谈判技巧
 
