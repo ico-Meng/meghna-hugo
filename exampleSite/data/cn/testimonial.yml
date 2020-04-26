@@ -5,22 +5,74 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : Schoffer
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : 领航师
+      content : >+
+                Bloomberg L.P. 彭博公司 纽约全球总部
+                New York Times 纽约时报 纽约全球总部
+                Boston University
       
     # testimonial item loop
-    - name : Mark Dinn
+    - name : Stella
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : 领航师
+      content : >+
+                Wells Fargo 富国银行
+                New York Times 纽约时报
+                Alibaba Group 阿里巴巴
+                Standard Chartered Bank 渣打银行
+                Columbia University 哥伦比亚大学
+                The Ohio State University 俄亥俄州州立大学
+                同济大学
+
       
     # testimonial item loop
-    - name : Lemos Kail
+    - name : Frank
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : 领航师
+      content : >+
+                Amazon 亚马逊 西雅图全球总部
+                University of Wisconsin-Madison 威斯康辛麦迪逊大学
+                中国科学技术大学
+                西安交通大学
+                获2005年中国奥林匹克信息学竞赛一等奖
+
+
+    # testimonial item loop
+    - name : JJ
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : 领航师
+      content : >+
+                Studio Link-Arc 事务所纽约总部
+                Yale University 耶鲁大学
+                清华大学
+
+
+    # testimonial item loop
+    - name : Maggie
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : 领航师
+      content : >+
+                Discovery Inc. - 数字产品商业开发及营销专家
+                BBC Studios - 市场营销及电子商务实习
+                United Nations 联合国 - 市场营销实习:webp
+                New York University 纽约大学 - 公共关系硕士
+
+
+    # testimonial item loop
+    - name : Dr. Martin
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : 领航顾问
+      content : >+
+                Google 谷歌 硅谷全球总部
+                Baidu USA 百度美国
+                Adobe
+                Stanford University 斯坦福大学 - 博士
+                清华大学
