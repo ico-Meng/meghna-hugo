@@ -8,19 +8,21 @@ skill:
   skill_item :
     # skill item loop
     - name :  计算机科学及工程
-      percent : 47%
+      percent : 87%
       
     # skill item loop
     - name :  金融经管类
-      percent : 31%
-      
-    # skill item loop
-    - name :  其他理工大类
-      percent : 11%
-      
-    - name :  建筑设计及交互设计
-      percent : 6%
+      percent : 71%
       
     # skill item loop
     - name :  商业及产品开发
-      percent : 5%
+      percent : 68%     
+
+    # skill item loop
+    - name :  其他理工大类
+      percent : 47%
+
+    # skill item loop
+    - name :  建筑设计
+      percent : 23%
+      
