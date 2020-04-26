@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "全球最专业领航团队倾力相助"
+  content : "来自全球顶尖高校及公司的领航师与您分享职业规划的宝贵经验和最前沿的市场就业讯息。"
   button:
     enable : true
-    label : "Start a project with us"
+    label : "订制私人领航计划"
     link : "#contact"

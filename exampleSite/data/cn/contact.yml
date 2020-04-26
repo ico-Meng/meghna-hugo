@@ -8,13 +8,13 @@ contact:
 
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "New York City, NY"
+      info : "美国 纽约"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +1-617-901-XXXX"
+      info : "电话: +1-617-901-XXXX"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +XXX-XX-XXX-XXX"
+    - icon : ti-themify-favicon # themify icon pack : https://themify.me/themify-icons
+      info : "微信: +XXX-XX-XXX-XXX"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: schofferstudio@gmail.com"
+      info : "邮箱: schofferstudio@gmail.com"

@@ -13,7 +13,7 @@ feature:
       
       # feature item loop
     - title : 世界顶尖人才配置
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      icon : ti-crown # themify icon pack : https://themify.me/themify-icons
       content : 领航师均来自全球顶尖高校及企业，并掌握广泛的社会网络和行业咨询。
 
       # feature item loop
@@ -23,5 +23,5 @@ feature:
       
       # feature item loop
     - title : 留学及职业生涯一站式培训
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-headphone # themify icon pack : https://themify.me/themify-icons
       content : 以就业为目标，从留学起始的专业选择及技能培养着手，为学生打造多维技能树。
