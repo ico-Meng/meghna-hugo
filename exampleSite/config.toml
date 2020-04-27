@@ -9,7 +9,7 @@ title = "Schoffer Studio"
 contentDir = "content/chinese"
 home = "Home"
 languageCode = "cn-si"
-languageName = "简体中文"
+languageName = "中文"
 weight = 1
 [Languages.en]
 contentDir = "content/english"
@@ -25,19 +25,19 @@ languageName = "Fr"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "关于我们"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Service"
+name = "服务项目"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "项目内容"
 weight = 3
 [[menu.main]]
 URL = "team"
-name = "Team"
+name = "领航团队"
 weight = 4
 [[menu.main]]
 URL = "pricing"
@@ -45,22 +45,22 @@ name = "Pricing"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "博客"
 weight = 6
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "联系我们"
 weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
-name = "Themefisher"
+name = "大航海"
 weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analitycs_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
@@ -92,7 +92,7 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
